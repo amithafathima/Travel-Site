@@ -1,0 +1,164 @@
+body
+{
+    font-family: 'Styles';
+}
+
+.nav1
+{
+    height: 150px;
+    width: 100%;
+     /* background-color: aquamarine;   */
+    
+}
+.nav1 h1
+{
+text-align: center;
+font-size: 60px;
+position: relative;
+top: 45px;
+font-family:'Cinzel' ;
+
+}
+ 
+a.nav-link
+{
+    color: black;
+    font-size: 18px;
+    position: relative;
+    bottom: 10px;
+    
+}
+.banner
+{
+    height: 600px;
+    width: 100%;
+    /* background-color: rgb(78, 167, 167); */
+}
+.banner img
+{
+height: 560px;
+width: 1200px;
+position: relative;
+left: 50px;
+}
+.main1
+{
+    height: 660px;
+    width: 100%;
+      /* background-color: aqua;     */
+}
+.main1 h4{
+    text-align: center;
+    font-size: 30px;
+}
+a.btn.btn-primary
+{
+    position: relative;
+    left: 68px;
+}
+h5.card-title
+{
+    text-align: center;
+}
+p.card-text
+{
+    text-align: justify;
+}
+img.card-img-top
+{
+    padding: 20px;
+    transform: scale(1); 
+transition: transform 0.3s ease;
+}
+img.card-img-top:hover
+{
+    transform: scale(1.1);
+}
+button
+{
+    transform: scale(1); 
+transition: transform 0.3s ease;
+}
+button:hover
+{
+    transform: scale(1.1);
+}
+
+.main4
+{
+    height: 3350px;
+    width: 100%;
+         /* background-color: aqua;         */
+}
+.main4 h3
+{
+text-align: center;
+}
+.main4a
+{
+    height: 600px;
+    width: 980px;
+    margin: 60px;
+  /* background-color: blueviolet; */
+  position: relative;
+  left: 100px; 
+}
+
+.main4b
+{
+    height: 600px;
+    width: 980px;
+    margin: 60px;
+  /* background-color: blueviolet;   */
+  position: relative;
+  left: 100px;
+}
+div.container-fluid
+{
+    height: 100px;
+    
+}
+a.navbar-brand
+{
+    font-size: 22px;
+    position: relative; 
+    left: 25px; 
+}
+.main4 img
+{
+    width: 980px;
+    height: 440px;
+}
+nav.navbar.navbar-light
+{
+background-color:rgb(245, 247, 248);
+border-left: 4px solid rgb(34, 110, 197);
+
+}
+.main5
+{
+    height: 600px;
+    width: 100%;
+     /* background-color: rgb(206, 168, 241);  */
+}
+img.card-img
+{
+    padding: 20px;
+}
+.main7
+{
+    height: 490px;
+    width: 100%;
+    /* background-color: aqua; */
+}
+#Premium
+{
+    transform: scale(1); 
+transition: transform 0.3s ease;
+}
+
+#Premium:hover
+{
+    transform: scale(1.1);
+}
+
